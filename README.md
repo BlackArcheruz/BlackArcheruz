@@ -2,7 +2,7 @@
 
 ``` I am Ibragimov Muhammad Siddiq, Frontend Developer from Tashkent and I am 15 Years old ```
 
-### #reactjs #redux #axios
+### #reactjs #javascript #axios
 
 ![source](https://user-images.githubusercontent.com/67962548/113019546-2a442700-919b-11eb-9de4-fdced07e170a.gif)
 
